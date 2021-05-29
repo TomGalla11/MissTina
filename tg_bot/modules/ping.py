@@ -3,8 +3,8 @@ import json
 import random
 import time
 import pyowm
-from pyowm import timeutils
-from pyown import exceptions
+#from pyowm import timeutils
+#from pyown import exceptions
 from datetime import datetime
 from typing import Optional, List
 
